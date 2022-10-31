@@ -1,20 +1,20 @@
 // Load own fonts
 // --------------
-@font-face {
-  font-family: Palatino;
-  src: url("./fonts/Palatino.ttf") format("truetype");
-  font-style: normal;
-}
-@font-face {
-  font-family: Palatino;
-  src: url("./fonts/Palatino-bold.ttf") format("truetype");
-  font-weight: 600;
-  font-style: normal;
-}
+// @font-face {
+//   font-family: Palatino;
+//   src: url("./fonts/Palatino.ttf") format("truetype");
+//   font-style: normal;
+// }
+// @font-face {
+//   font-family: Palatino;
+//   src: url("./fonts/Palatino-bold.ttf") format("truetype");
+//   font-weight: 600;
+//   font-style: normal;
+// }
 
 // Define some variables for font sizes and colors
 // -----------------------------------------------
-@base_font_size: 64px;
+@base_font_size: 52px;
 @h1_font_size: 2em;
 @h2_font_size: 1.5em;
 @h3_font_size: 1.2em;
@@ -36,8 +36,8 @@
   --r-heading3-size: @h3_font_size;
   --r-heading4-size: @h4_font_size;
   // overwrite fonts
-  --r-main-font: Palatino, Helvetica, sans-serif;
-  --r-heading-font: Palatino, Helvetica, sans-serif;
+  // --r-main-font: Palatino, Helvetica, sans-serif;
+  // --r-heading-font: Palatino, Helvetica, sans-serif;
   --r-heading-text-transform: normal;
 }
 
@@ -107,21 +107,21 @@
       color: @link_hover_color;
     }
 
-    .logos {
-      margin: 0 2%;
-      justify-content: space-between;
+    .affiliation {
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
       align-items: center;
-      margin: 0 15%;
-
-      .logo {
-        flex: 1;
-      }
-
-      img {
-        max-height: 100px;
-        margin: 0 auto;
-      }
     }
+
+    .affiliation-items {
+      text-align: left;
+      margin-left: 1em;
+    }
+  }
+
+  .slide-transition {
+    background-color: "#e66f28";
   }
 
   // Custom slide for the license text
@@ -133,6 +133,20 @@
         margin-right: 10px;
         font-size: @h2_font_size;
       }
+    }
+  }
+
+  .slide-fatiando-libraries {
+    p {
+      font-size: 0.8 * @base_font_size;
+    }
+    li {
+      font-size: 0.75 * @base_font_size;
+      margin-bottom: 0.3em;
+    }
+
+    .column {
+      max-width: 39vw;
     }
   }
 
@@ -148,5 +162,9 @@
       align-self: flex-end;
       margin: 0;
     }
+  }
+
+  .align-center {
+    align-items: center;
   }
 }

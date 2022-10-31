@@ -1,0 +1,27 @@
+UBC Signature: Complete Design Package
+Version 1.0
+July 2016
+
+Features:
+- Files no longer include “a place of mind” tagline
+- Files contain larger word mark
+- Narrow UBC signature is now available
+- Promotional UBC logo no longer available
+
+
+
+Version 1.1
+March 2018
+
+Features:
+- Revised file names
+- Revised spacing between “T” and “Y” in wordmark
+
+
+
+
+Version 1.2
+September 2019
+
+Features:
+- Revised logo rules pdf
