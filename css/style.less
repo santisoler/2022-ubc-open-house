@@ -1,0 +1,152 @@
+// Load own fonts
+// --------------
+@font-face {
+  font-family: Palatino;
+  src: url("./fonts/Palatino.ttf") format("truetype");
+  font-style: normal;
+}
+@font-face {
+  font-family: Palatino;
+  src: url("./fonts/Palatino-bold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+
+// Define some variables for font sizes and colors
+// -----------------------------------------------
+@base_font_size: 64px;
+@h1_font_size: 2em;
+@h2_font_size: 1.5em;
+@h3_font_size: 1.2em;
+@h4_font_size: 1em;
+
+@main_color: var(--r-main-color);
+@background_color: var(--r-background-color);
+@link_hover_color: var(--r-link-color-hover);
+
+// Override default variables of Reveal.js style
+// ---------------------------------------------
+:root {
+  // Don't uppercase headings
+  --r-heading-text-transform: none;
+  // overwrite font sizes
+  --r-main-font-size: @base_font_size;
+  --r-heading1-size: @h1_font_size;
+  --r-heading2-size: @h2_font_size;
+  --r-heading3-size: @h3_font_size;
+  --r-heading4-size: @h4_font_size;
+  // overwrite fonts
+  --r-main-font: Palatino, Helvetica, sans-serif;
+  --r-heading-font: Palatino, Helvetica, sans-serif;
+  --r-heading-text-transform: normal;
+}
+
+//
+// ##############################################################
+//
+
+/* ====================== */
+/* Configure reveal style */
+/* ====================== */
+
+.reveal {
+  // Set list-style-type to none on fa-ul
+  .fa-ul {
+    list-style-type: none;
+  }
+
+  // -------------------------------------------
+  // Define columns and position-related classes
+  // -------------------------------------------
+
+  // Columns divs must be included inside a container div
+  .container {
+    display: flex;
+    flex-wrap: wrap;
+    img {
+      width: 100%;
+    }
+  }
+
+  // Define a regular column
+  .column {
+    flex: 1;
+  }
+
+  // Define larger columns
+  .col-2 {
+    flex: 2;
+  }
+  .col-3 {
+    flex: 3;
+  }
+  .col-4 {
+    flex: 4;
+  }
+
+  // Centre the content for a slide.
+  // Put in a div that wraps the entire slide.
+  // Must have another empty div inside it as well.
+  .centered {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+  }
+
+  // -------------
+  // Custom slides
+  // -------------
+
+  .slide-title {
+    a {
+      color: @main_color;
+    }
+
+    a:hover {
+      color: @link_hover_color;
+    }
+
+    .logos {
+      margin: 0 2%;
+      justify-content: space-between;
+      align-items: center;
+      margin: 0 15%;
+
+      .logo {
+        flex: 1;
+      }
+
+      img {
+        max-height: 100px;
+        margin: 0 auto;
+      }
+    }
+  }
+
+  // Custom slide for the license text
+  .slide-license {
+    .license-icons {
+      font-size: @h2_font_size;
+      i {
+        margin-left: 10px;
+        margin-right: 10px;
+        font-size: @h2_font_size;
+      }
+    }
+  }
+
+  // --------------
+  // Custom classes
+  // --------------
+
+  // Class to put footnotes (like references, links, notes, etc.)
+  .footnote {
+    p {
+      font-size: 0.5em !important;
+      text-align: left;
+      align-self: flex-end;
+      margin: 0;
+    }
+  }
+}
