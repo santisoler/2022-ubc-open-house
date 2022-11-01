@@ -156,6 +156,18 @@ $$
 
 ---
 
+<!-- .slide: data-auto-animate -->
+
+## Developed new method
+
+- **Gravitational fields** of **variable density tesseroids**
+- **Density**: continuous **function of depth**
+- Open-source **Python** implementation
+
+---
+
+<!-- .slide: data-auto-animate -->
+
 ## Developed new method
 
 - **Gravitational fields** of **variable density tesseroids**
@@ -232,6 +244,20 @@ Preprint: [10.31223/osf.io/3548g](https://doi.org/10.31223/osf.io/3548g)
 - = **~300GB RAM**
 
 ---
+
+<!-- .slide: data-auto-animate -->
+
+## THE SOLUTION
+
+### Gradient-boosted equivalent sources
+
+- Interpolate **very large datasets**
+- Significant **reduction** in required **memory**
+- Open-source **Python** implementation
+
+---
+
+<!-- .slide: data-auto-animate -->
 
 ## THE SOLUTION
 
@@ -310,7 +336,13 @@ Preprint: [10.31223/X58G7C](https://doi.org/10.31223/X58G7C)
 
 ---
 
-<!-- .slide: class="slide-fatiando-libraries" -->
+<!-- .slide: data-auto-animate -->
+
+## The libraries
+
+---
+
+<!-- .slide: class="slide-fatiando-libraries" data-auto-animate -->
 
 <!-- ========= -->
 <!-- First row -->
@@ -550,14 +582,14 @@ Mitchinson et al., (2020). ISBN: 978-0-88865-470-0
 
 ---
 
-<!-- .slide: class="slide-title" -->
+<!-- .slide: class="slide-title slide-license" -->
 
-# Muchas gracias | Thank you
+
+<h1 style="margin: 1em 0;"> Muchas gracias | Thank you </h1>
 
 <p class="license-icons">
 <i class="fab fa-creative-commons"></i><i class="fab fa-creative-commons-by"></i>
 </p>
 
-This presentation is available under a
-
+These slides are available under a <br>
 [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)
