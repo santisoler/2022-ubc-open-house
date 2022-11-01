@@ -298,7 +298,7 @@ Preprint: [10.31223/X58G7C](https://doi.org/10.31223/X58G7C)
 
 <!-- .slide: class="slide-transition" data-background-color="#de6f2e" -->
 
-# Open-source software devlopment
+# Open-source software development
 
 ---
 
@@ -410,34 +410,143 @@ A friend to **download** and **cache** your data
 
 ---
 
-- Description of the project
-- Libraries and their capabilities
-- Fatiando in the wild
+# Who is using Fatiando?
 
 ---
+
+<!-- .slide: data-background-image="images/fatiando-papers.png" data-background-size="contain" data-background-repeat="no-repeat" -->
+
+---
+
+<!-- .slide: data-background-color="#eee" -->
+
+<img src="images/fatiando-users-map.svg" style="width: 100vw">
+
+---
+
+<!-- .slide: data-background-color="#eee" -->
 
 # Research and open-source software
 
+<img src="images/software-to-research.svg" style="height: 30vh; margin: 3em 0;">
+
 ---
 
-<!-- .slide: class="slide-transition" -->
+<!-- .slide: data-background-color="#eee" -->
+
+# Research and open-source software
+
+<img src="images/software-research-feedback.svg" style="height: 30vh; margin: 3em 0;">
+
+---
+
+<!-- .slide: data-background-color="#eee" -->
+
+<img src="images/software-research-multi.svg" style="height: 100vh;">
+
+---
+
+<!-- .slide: class="slide-transition" data-background-color="#de6f2e" -->
 
 # Current research
 
 ---
 
+<!-- .slide: data-background-color="#eee" -->
+
 ## Carbon mineralization
+
+<div class="container align-center">
+
+<div class="column">
+<p style="color: #40b93c; margin-bottom: 0">Serpentinization</p>
+<img src="images/serpentinization.png" style="width: 90%; margin-top: 0">
+<p style="color: #f16738; margin-bottom: 0">Carbonation</p>
+<img src="images/carbonation.png" style="width: 90%; margin-top: 0">
+</div>
+
+<div class="column-2">
+
+- **Serpentinized** rocks react with **CO2**
+- Mineralize in **carbonated** rocks
+- **Carbon sequestration** with **ultramafic rocks**
+
+</div>
+</div>
+
+
+<div class="footnote">
+
+Cutts et al. (2021). doi: [10.1029/2021GC009989](https://doi.org/10.1029/2021GC009989)
+
+Mitchinson et al., (2020). ISBN: 978-0-88865-470-0
+
+</div>
 
 ---
 
 ## Physical properties
 
+
+<img src="images/density-suscept-plots.svg" style="height: 80vh;">
+
+**Density** and **susceptibility** change with alteration
+
+
+---
+
+## *Research opportunity:*
+
+## Geophysical inversion for assessing <br> carbonation potential
+
+
 ---
 
 ## Goals
 
-- Grav+mag joint inversion to estimate depth and volume of ultramafic rocks
-  with good carbonation potential
+<div class="container align-center">
+<div class="column">
+
+- **Gravity** + **magnetic** data
+- 3D joint **inversions**
+- Characterize **volume** and **depth** of rocks with **carbonation potential**
+
+</div>
+<div class="column">
+<img src="images/3d_plot.png" style="height: 70vh;">
+</div>
+</div>
+
+---
+
+# Contact
+
+<div>
+
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-envelope"></i>
+
+[ssoler@eoas.ubc.ca](mailto:ssoler@eoas.ubc.ca)
+
+</li>
+<li><i class="fa-li fa fa-globe-americas"></i>
+
+[www.santisoler.com](https://www.santisoler.com)
+
+</li>
+<li><i class="fa-li fab fa-github"></i>
+
+[@santisoler](https://www.github.com/santisoler)
+
+</li>
+<li><i class="fa-li fab fa-mastodon"></i>
+
+[@santisoler@scicomm.xyz](https://scicomm.xyz/santisoler)
+
+</li>
+</ul>
+
+</div>
 
 ---
 
