@@ -1,5 +1,7 @@
 # Slides for GIF-UBC Open House event 2022
 
+**Slides:** [santisoler.com/2022-ubc-open-house](https://www.santisoler.com/2022-ubc-open-house)
+
 ## Serving the slides
 
 Install [livereload](https://github.com/lepture/python-livereload):

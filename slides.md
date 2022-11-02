@@ -584,10 +584,12 @@ Mitchinson et al., (2020). ISBN: 978-0-88865-470-0
 
 ---
 
-<!-- .slide: class="slide-title slide-license" -->
+<!-- .slide: class="slide-license" -->
 
 
 <h1 style="margin: 1em 0;"> Muchas gracias | Thank you </h1>
+
+**Slides:** [www.santisoler.com/2022-ubc-open-house](https://www.santisoler.com/2022-ubc-open-house)
 
 <p class="license-icons">
 <i class="fab fa-creative-commons"></i><i class="fab fa-creative-commons-by"></i>
