@@ -41,7 +41,7 @@
 * Licenciate in Physics (UNR, Argentina)
 * PhD in Geophysics (CONICET & UNSJ, Argentina)
 * Postdoc Researcher at [UBC](https://www.ubc.ca)
-* Member of the
+* Former member of the
   <img src="images/logos/compgeolab.svg" alt="" style="display: inline; height:
   1em; width: auto; margin: 0 0.2em;">
   [Computer-Oriented Geoscience Lab](https://www.compgeolab.org)
