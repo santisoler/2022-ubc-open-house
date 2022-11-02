@@ -328,11 +328,13 @@ Preprint: [10.31223/X58G7C](https://doi.org/10.31223/X58G7C)
 
 ---
 
-<!-- .slide: data-background-color="#0c052d" -->
+<!-- .slide: data-background-color="#060629" data-background-image="images/fatiando-website.png" data-background-size="contain" -->
 
-<img src="images/fatiando-website.png" style="height: 100vh; margin: 0;">
+<div class="container r-stretch" style="flex-direction: column; justify-content: flex-end; align-items: end;">
 
 [www.fatiando.org](https://www.fatiando.org)
+
+</div>
 
 ---
 
