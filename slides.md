@@ -67,11 +67,11 @@
 
 ---
 
+### Tesseroids
+
 <div class="container" style="align-items: center;">
 
 <div class="column">
-
-### Tesseroids
 
 <img src="images/tesseroid-definition.svg" style="height: 70vh; width: auto;">
 
@@ -98,11 +98,11 @@ $$
 
 ---
 
+### Tesseroids
+
 <div class="container" style="align-items: center;">
 
 <div class="column">
-
-### Tesseroids
 
 <img src="images/tesseroid-definition.svg" style="height: 70vh; width: auto;">
 
