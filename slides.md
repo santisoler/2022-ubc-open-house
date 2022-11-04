@@ -444,6 +444,58 @@ A friend to **download** and **cache** your data
 
 ---
 
+# Authors and Contributors
+
+<div class="container" style="flex-direction: row; align-items: center; justify-content: center; margin-bottom: 1em;">
+
+<div class="mantainer">
+<img src="https://www.github.com/leouieda.png" >
+<a href="https://www.leouieda.com">Leonardo Uieda</a>
+</div>
+
+<div class="mantainer">
+<img src="https://www.github.com/santisoler.png" >
+<a href="https://www.santisoler.com">Santiago Soler</a>
+</div>
+
+</div>
+
+<div class="contributors">
+
+<img src="https://www.github.com/LL-Geo.png">
+<img src="https://www.github.com/MGomezN.png">
+<img src="https://www.github.com/aguspesce.png">
+<img src="https://www.github.com/mdtanker.png">
+<img src="https://www.github.com/birocoles.png">
+<img src="https://www.github.com/nshea3.png">
+<img src="https://www.github.com/Esteban82.png">
+<img src="https://www.github.com/djhoese.png">
+<img src="https://www.github.com/lheagy.png">
+<img src="https://www.github.com/jessepisel.png">
+<img src="https://www.github.com/SAskevold.png">
+<img src="https://www.github.com/andersy005.png">
+<img src="https://www.github.com/GenevieveBuckley.png">
+<img src="https://www.github.com/lukegre.png">
+<img src="https://www.github.com/mathause.png">
+<img src="https://www.github.com/hmaarrfk.png">
+<img src="https://www.github.com/horta.png">
+<img src="https://www.github.com/hugovk.png">
+<img src="https://www.github.com/dokempf.png">
+<img src="https://www.github.com/Xarthisius.png">
+<img src="https://www.github.com/jrleeman.png">
+<img src="https://www.github.com/drammock.png">
+<img src="https://www.github.com/remram44.png">
+<img src="https://www.github.com/neutrinoceros.png">
+<img src="https://www.github.com/danshapero.png">
+<img src="https://www.github.com/matthewturk.png">
+<img src="https://www.github.com/avalentino.png">
+<img src="https://www.github.com/dabiged.png">
+
+</div>
+
+
+---
+
 # Who is using Fatiando?
 
 ---
