@@ -444,7 +444,7 @@ A friend to **download** and **cache** your data
 
 ---
 
-# Authors and Contributors
+# Who we are
 
 <div class="container" style="flex-direction: row; align-items: center; justify-content: center; margin-bottom: 1em;">
 
