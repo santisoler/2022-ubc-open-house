@@ -190,7 +190,7 @@ gravity = hm.tesseroid_gravity(
 
 ---
 
-<img src="images/soler2019.png" style="height: 100vh">
+<img class="r-stretch" src="images/soler2019.png">
 
 <div class="footnote">
 
