@@ -73,7 +73,7 @@
 
 <div class="column">
 
-<img src="images/tesseroid-definition.png" style="height: 70vh; width: auto;">
+<img class="r-stretch" src="images/tesseroid-definition.png" style="width: auto;">
 
 a.k.a. spherical prisms
 
@@ -104,7 +104,7 @@ $$
 
 <div class="column">
 
-<img src="images/tesseroid-definition.png" style="height: 70vh; width: auto;">
+<img class="r-stretch" src="images/tesseroid-definition.png" style="width: auto;">
 
 a.k.a. spherical prisms
 
@@ -210,7 +210,7 @@ Preprint: [10.31223/osf.io/3548g](https://doi.org/10.31223/osf.io/3548g)
 
 ## Equivalent sources
 
-<img src="images/equivalent-sources.png" style="height: 50vh; width: auto; margin-top: 3em;">
+<img class="r-stretch" src="images/equivalent-sources.png" style="width: auto; margin-top: 3em;">
 
 ---
 
@@ -221,7 +221,7 @@ Preprint: [10.31223/osf.io/3548g](https://doi.org/10.31223/osf.io/3548g)
 <div class="container align-center">
 
 <div class="column">
-<img src="images/equivalent-sources.png" style="height: 50vh; width: auto; margin-top: 3em;">
+<img class="r-stretch" src="images/equivalent-sources.png" style="width: auto; margin-top: 3em;">
 </div>
 
 <div class="column">
@@ -514,7 +514,7 @@ A friend to **download** and **cache** your data
 
 # Research and open-source software
 
-<img src="images/software-to-research.png" style="height: 30vh; margin: 3em 0;">
+<img class="r-stretch" src="images/software-to-research.png" style="margin: 3em 0;">
 
 ---
 
@@ -522,13 +522,13 @@ A friend to **download** and **cache** your data
 
 # Research and open-source software
 
-<img src="images/software-research-feedback.png" style="height: 30vh; margin: 3em 0;">
+<img class="r-stretch" src="images/software-research-feedback.png" style="margin: 3em 0;">
 
 ---
 
 <!-- .slide: data-background-color="#eee" -->
 
-<img src="images/software-research-multi.png" style="height: 100vh;">
+<img class="r-stretch" src="images/software-research-multi.png">
 
 ---
 
@@ -574,7 +574,7 @@ Mitchinson et al., (2020). ISBN: 978-0-88865-470-0
 ## Physical properties
 
 
-<img src="images/density-suscept-plots.png" style="height: 80vh;">
+<img class="r-stretch" src="images/density-suscept-plots.png">
 
 **Density** and **susceptibility** change with alteration
 
@@ -599,7 +599,7 @@ Mitchinson et al., (2020). ISBN: 978-0-88865-470-0
 
 </div>
 <div class="column">
-<img src="images/3d_plot.png" style="height: 70vh;">
+<img class="r-stretch" src="images/3d_plot.png">
 </div>
 </div>
 
