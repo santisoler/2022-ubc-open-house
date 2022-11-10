@@ -2,6 +2,8 @@
 
 **Slides:** [santisoler.com/2022-ubc-open-house](https://www.santisoler.com/2022-ubc-open-house)
 
+**Slides as a PDF:** [slides.pdf](https://raw.githubusercontent.com/santisoler/2022-ubc-open-house/main/slides.pdf)
+
 ## Serving the slides
 
 Install [livereload](https://github.com/lepture/python-livereload):
