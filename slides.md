@@ -210,7 +210,7 @@ Preprint: [10.31223/osf.io/3548g](https://doi.org/10.31223/osf.io/3548g)
 
 ## Equivalent sources
 
-<img class="r-stretch" src="images/equivalent-sources.png" style="width: auto; margin-top: 3em;">
+<img src="images/equivalent-sources.png" style="height: 100%; width: auto; margin-top: 3em;">
 
 ---
 
@@ -221,7 +221,7 @@ Preprint: [10.31223/osf.io/3548g](https://doi.org/10.31223/osf.io/3548g)
 <div class="container align-center">
 
 <div class="column">
-<img class="r-stretch" src="images/equivalent-sources.png" style="width: auto; margin-top: 3em;">
+<img src="images/equivalent-sources.png" style="height: 100%; width: auto; margin-top: 3em;">
 </div>
 
 <div class="column">
@@ -310,7 +310,7 @@ grid = eqs.grid(grid_coords)
 
 ---
 
-<img src="images/soler2021.png" style="height: 100vh">
+<img class="r-stretch" src="images/soler2021.png">
 
 <div class="footnote">
 
@@ -514,7 +514,9 @@ A friend to **download** and **cache** your data
 
 # Research and open-source software
 
-<img class="r-stretch" src="images/software-to-research.png" style="margin: 3em 0;">
+<div class="r-stretch">
+<img src="images/software-to-research.png" style="height: 50%; margin: 3em 0;">
+</div>
 
 ---
 
@@ -522,7 +524,9 @@ A friend to **download** and **cache** your data
 
 # Research and open-source software
 
-<img class="r-stretch" src="images/software-research-feedback.png" style="margin: 3em 0;">
+<div class="r-stretch">
+<img src="images/software-research-feedback.png" style="height: 50%; margin: 3em 0;">
+</div>
 
 ---
 
